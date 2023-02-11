@@ -1,7 +1,2 @@
-a
-b
-c
-d
-e
-f
-g
+def add(x,y):
+	return x+y
